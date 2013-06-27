@@ -2,7 +2,7 @@
 
 This isn't a thing yet. Just an idea.
 
-***Edit:** since my first draft, I've spotted [require-is](https://github.com/guybedford/require-is), which looks like it performs similar logic, but without the Modernizr integration. A helpful starting point, maybe...?*
+***Edit:*** *since my first draft, I've spotted [require-is](https://github.com/guybedford/require-is), which looks like it performs similar logic, but without the Modernizr integration. A helpful starting point, maybe...?*
 
 ## Aim
 
